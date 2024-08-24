@@ -1,0 +1,29 @@
+.photo{
+    margin-left: 100px;
+}
+.list{
+    margin-left: 300px;
+}
+
+.specialpadding{
+    padding: 100px 0
+}
+.back{
+    background-image: url(https://images-beta.tossdown.com/site/bb1bd702-431a-4f3a-a0ca-c5966a1f7985.webp);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right top;
+    z-index: -1;
+}
+.front{
+    background-image: url(https://images-beta.tossdown.com/site/bb1bd702-431a-4f3a-a0ca-c5966a1f7985.webp);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.fast{
+    list-style-type: none;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
